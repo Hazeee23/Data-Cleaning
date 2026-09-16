@@ -98,6 +98,4 @@ The dataset was reduced from **2,361 rows to 1,995 rows** after cleaning.
 
 This project helped me practice using SQL for real-world data cleaning. I learned how to identify and remove duplicate records, standardize inconsistent values, convert data types, handle missing values, and validate a cleaned dataset before using it for analysis.
 
-## Next Step
 
-The cleaned dataset can be used for further exploratory data analysis and visualization.
